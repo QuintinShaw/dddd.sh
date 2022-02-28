@@ -25,6 +25,19 @@ copyright() {
     echo " Version            : $(green v2022-02-28)"
     echo " Usage              : $(yellow "wget -qO- dddd.sh | bash")"
     echo "----------------------------------------------------------------------"
+    echo -e "\n"
+
 }
 
-copyright
+mainboard() {
+    copyright
+    echo " dd                 : 1"
+    echo " bench              : 2"
+    echo -e "\n"
+    read -r -p "Which option do you want? " option
+    case $option in
+        1) echo -e "\nWhich system do you want?\n"
+    esac
+}
+
+mainboard
