@@ -21,8 +21,8 @@ blue() {
 script_name=dddd.sh
 script_update=2023.03.29
 script_version=0.0.0.1
-script_cmd="wget -qO- dddd.sh | bash"
-script_cmd2="curl -Lso- dddd.sh | bash"
+script_cmd="bash <(wget -qO- dddd.sh)"
+script_cmd2="bash <(curl -sL dddd.sh)"
 
 copyright() {
   clear
