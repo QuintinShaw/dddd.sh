@@ -41,4 +41,4 @@ If you find any problems or have suggestions for improvement, welcome to contrib
 
 ## License
 
-This script is released under the MIT license, and you are free to use, modify, and distribute [LICENSE](https://github.com/QuintinShaw/dddd.sh/blob/main/LICENSE).
+This script is released under the MIT [LICENSE](https://github.com/QuintinShaw/dddd.sh/blob/main/LICENSE), and you are free to use, modify, and distribute.
