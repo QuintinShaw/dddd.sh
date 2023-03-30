@@ -23,13 +23,13 @@ The dddd.sh script includes the following features:
 Download and run the script:
 
 ```
-curl -sL dddd.sh | bash
+bash <(curl -sL dddd.sh)
 ```
 
 or
 
 ```
-wget -qO- dddd.sh | bash
+bash <(wget -qO- dddd.sh)
 ```
 
 

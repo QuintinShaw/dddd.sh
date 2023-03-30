@@ -22,13 +22,13 @@ dddd.sh脚本包含了以下功能：
 下载和运行脚本：
 
 ```
-curl -sL dddd.sh | bash
+bash <(curl -sL dddd.sh)
 ```
 
 或
 
 ```
-wget -qO- dddd.sh | bash
+bash <(wget -qO- dddd.sh)
 ```
 
 脚本会提示您选择您想要进行的操作，以及需要的参数和配置信息。您可以根据自己的需求自定义配置，或者按照默认选项进行操作。
