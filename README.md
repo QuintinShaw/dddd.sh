@@ -1,6 +1,6 @@
 # dddd.sh
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/QuintinShaw/dddd.sh/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/QuintinShaw/dddd.sh/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/your/ddd.sh.svg)](https://github.com/QuintinShaw/dddd.sh/stargazers)
 
 dddd.sh is an open source script for reinstalling Linux systems, testing speed, changing kernels, and serving as a tool for Seedbox and home theater. The script is easy to use, highly customizable, and supports multiple Linux distributions.
@@ -40,4 +40,4 @@ If you find any problems or have suggestions for improvement, welcome to contrib
 
 ## License
 
-This script is released under the MIT license, and you are free to use, modify, and distribute
+This script is released under the MIT license, and you are free to use, modify, and distribute [LICENSE](https://github.com/QuintinShaw/dddd.sh/blob/main/LICENSE).

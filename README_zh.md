@@ -1,6 +1,6 @@
 # dddd.sh
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/QuintinShaw/dddd.sh/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/QuintinShaw/dddd.sh/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/your/ddd.sh.svg)](https://github.com/QuintinShaw/dddd.sh/stargazers)
 
 dddd.sh是一个开源的脚本，用于重装Linux系统、测速、更换内核，以及作为Seedbox和家庭影院的工具。该脚本使用简单，具有高度的可定制性，同时支持多种Linux发行版。
@@ -39,4 +39,4 @@ wget -qO- dddd.sh | bash
 
 ## 许可证
 
-该脚本采用MIT许可证发布，您可以自由地使用、修改和分发该脚本。更多信息请参见[LICENSE](https://github.com/QuintinShaw/dddd.sh/blob/master/LICENSE)文件。
+该脚本采用MIT许可证发布，您可以自由地使用、修改和分发该脚本。更多信息请参见[LICENSE](https://github.com/QuintinShaw/dddd.sh/blob/main/LICENSE)文件。
